@@ -103,7 +103,7 @@ https://en.wikipedia.org/wiki/HTTPdsfdfs
 
 ## Скриншот
 
-![Wikipedia 404](images/wiki-404.png)
+![Wikipedia 404](images/http-error.png)
 
 ## Статус ответа
 
