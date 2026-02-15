@@ -158,7 +158,7 @@ https://github.com
 
 ## Скриншот
 
-![GitHub Request](images/part-3.png)
+![GitHub Request](images/part3.png)
 
 
 ## Основные параметры
