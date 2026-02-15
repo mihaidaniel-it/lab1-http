@@ -18,8 +18,6 @@
 
 ## 2.1 Открытая страница
 
-https://en.wikipedia.org/wiki/HTTP
-
 ## Скриншот запроса
 
 ![Wikipedia HTTP Request](images/part1.png)
